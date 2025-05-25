@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* University of Washington, Seattle, 2024-2028
+* B.S. in Computer Science
+* B.A. in Linguistics
 
 Work experience
 ======
