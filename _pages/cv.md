@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* University of Washington, Seattle, 2024-2028
+University of Washington, Seattle, 2024-2028
 * B.S. in Computer Science
 * B.A. in Linguistics
 
